@@ -50,18 +50,23 @@ A **sleek, modular, body-adherent insulin pump** inspired by the Medtronic MiniM
 
 
 **Project Status**
+
 ✔️ Completed academic design and prototype
 🔬 Concept-level medical device (not for clinical use)
 
 **Future Work**
-Skin-tone adaptive casing for improved concealability
-Complete elimination of invasive delivery mechanisms
-Integration of additional biosensors
-Exploration of injection molding for scalable manufacturing
-Further validation of microneedle-based insulin delivery
+- Skin-tone adaptive casing for improved concealability
+- Complete elimination of invasive delivery mechanisms
+- Integration of additional biosensors
+- Exploration of injection molding for scalable manufacturing
+- Further validation of microneedle-based insulin delivery
 
 **Authors**
+
 Supreeth Sai Krishna
+
 Abhiramalakshmi Senthil Kumar
+
 Dhruv Tyagi
+
 Yolander Adjei
