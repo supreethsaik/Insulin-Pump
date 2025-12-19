@@ -40,7 +40,7 @@ A **sleek, modular, body-adherent insulin pump** inspired by the Medtronic MiniM
 - **Chassis:** Polylactic Acid (PLA)-
   - Biocompatible, lightweight, cost-effective, suitable for rapid prototyping
 - **Adhesive Base (Prototype):** Thermoplastic Polyurethane (TPU) -
-  -Flexible, skin-contact suitable, high bonding strength
+  - Flexible, skin-contact suitable, high bonding strength
 
 **Manufacturing Process**
 - Rapid prototyping via FDM 3D printing
